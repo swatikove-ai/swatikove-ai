@@ -58,32 +58,6 @@
 | 🌤️ **Weather App**              | Real-time weather information using API |
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swatikove-ai&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatikove-ai&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=swatikove-ai&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swatikove-ai&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
