@@ -59,6 +59,8 @@
 | 🏫 [School Management System](https://github.com/swatikove-ai/school-management-system) | Student management, records & reports |
 | 🌤️ Weather App | Real-time weather information using API |
 ---
+
+
 ## 📫 Connect With Me
 
 - 📧 Email: [swatikove96@gmail.com](mailto:yourname@gmail.com)
