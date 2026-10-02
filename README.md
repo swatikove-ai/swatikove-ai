@@ -50,21 +50,20 @@
 
 ---
 
+
 ## 📂 Featured Projects
 
-| Project                          | Description                             |
-| -------------------------------- | --------------------------------------- |
-| 🏫 **School Management System**  | Student management, records & reports   |   |
-| 🌤️ **Weather App**              | Real-time weather information using API |
-
+| Project | Description |
+|---|---|
+| 🧪 [Chemical Components Analysis](https://github.com/swatikove-ai/chemical-components-analysis) | Analyzed chemical compound properties using Python, Pandas, NumPy & Matplotlib |
+| 🏫 [School Management System](https://github.com/swatikove-ai/school-management-system) | Student management, records & reports |
+| 🌤️ Weather App | Real-time weather information using API |
 ---
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/swatikove-ai">
-    <img src="https://img.shields.io/badge/GitHub-swatikove--ai-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+- 📧 Email: [swatikove96@gmail.com](mailto:yourname@gmail.com)
+- LinkedIn: [Swati Kove](https://www.linkedin.com/in/swatikove/)
+- GitHub: [swatikove-ai](https://github.com/swatikove-ai)
 
 ---
 
